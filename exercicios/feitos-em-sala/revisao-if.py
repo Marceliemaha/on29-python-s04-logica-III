@@ -9,3 +9,5 @@ elif nota_da_aluna >= nota_minima_para_recuperacao:
     print("Recuperação :( )")
 else:
     print("Reprovada :'( )")
+
+    
